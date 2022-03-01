@@ -1,2 +1,2 @@
-# Fundamental Concepts of Object-Oriented Programming
- My solutions for tasks from subject (Fundamental Concepts of Object-Oriented Programming) year 2021/22
+# Fundamental-Concepts-of-Object-Oriented-Programming
+Solutions for tasks from subject (Fundamental-Concepts-of-Object-Oriented-Programming) year 2021/22
